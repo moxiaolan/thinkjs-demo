@@ -1,2 +1,2 @@
 # thinkjs-demo
-hinkjs-demo
+thinkjs-demo
